@@ -1,1 +1,1 @@
-# LuaByExample
+# Basics of Coding Lua
